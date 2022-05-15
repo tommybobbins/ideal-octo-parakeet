@@ -20,11 +20,11 @@ break_workspace = true
 
 The candidate should be able to login to Jupyter using the provided URL:
 
-[Login to Jupyter using the provided Token](pictures/jupyter_login.png)
+![Login to Jupyter using the provided Token](pictures/jupyter_login.png)
 
 They will be presented with a white screen and asked to fix this.
 
-[Login to Jupyter using the provided Token](pictures/jupyter_blank_page.png)
+![Jupyter blank page. Oh no.](pictures/jupyter_blank_page.png)
 
 The terraform output is provided which you can provide to the candidate to login:
 
