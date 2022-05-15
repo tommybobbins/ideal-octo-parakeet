@@ -36,4 +36,4 @@ Web-Server-URL = "https://44.192.104.111"
 jupyter-token = "<obfuscated>"
 ```
 
-The problem can be triaged using the ![answers.md]
+The problem can be triaged using [answers.md](answers.md)
